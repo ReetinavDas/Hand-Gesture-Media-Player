@@ -1,3 +1,2 @@
 # PIC16B-Project
-
-This project will be super amazing.
+Tutorial: ![https://reetinav.quarto.pub/my-blog/posts/hand-gesture-tutorial/](https://reetinav.quarto.pub/my-blog/posts/hand-gesture-tutorial/)
