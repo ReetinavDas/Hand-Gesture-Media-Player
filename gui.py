@@ -3,7 +3,7 @@
 """
 Created on Thu Nov 16 01:52:31 2023
 
-@author: josh
+@author: Reetinav Das
 """
 
 ### GUI Design for Camera App ###
